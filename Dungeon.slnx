@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SharpEngine.Core/SharpEngine.Core/SharpEngine.Core.csproj" />
+  <Project Path="Dungeon/Dungeon.csproj" />
+</Solution>
